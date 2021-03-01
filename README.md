@@ -4,6 +4,10 @@ Uncursus : Procursus Bootstrap On Unc0ver Jailbreak
 
 A9-A13 Is Supported
 
+**iOS 14 & A14 not supported, DO NOT RUN!**
+
+My device broken (T_T)
+
 Credits :
 
 Me : Script To Patch Procursus Installtation For Unc0ver
